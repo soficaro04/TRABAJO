@@ -1,0 +1,21 @@
+#ininclude <iostream>
+usg namespace std;
+int main 0 € int numi;
+int num2;
+int suma;
+int resta;
+int multiplicasion;
+float division;
+float modulo;
+cout<<"ingrese el numero";
+cin>> numi;
+cout<<"ingrese el segundo numero";
+cin>> num2;
+suma = numi + num2;
+coutくく Suma < endls
+resta = numi - num2;
+cout<< resta « endl;
+multiplicasion = numi * num2 ;
+cout<< multiplicasion<< endl;
+division = numi / num2;
+coutce divisionc< endl;
