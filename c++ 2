@@ -1,0 +1,25 @@
+# include <iostream>
+using namespace sdt;
+
+int main =(){
+
+    double pecio;
+    cout <<"ingrese el precio del articulo:";
+    cin >> precio;
+
+    double descuento=0.15;
+    double precio_final= precio* (1-descuento);
+
+    cout << "el percio final es: " << precio_final << endl;
+
+ int valor= 10;
+ valor = valor + 5;
+ valor = valor -3;
+ valor= valor* 2;
+ 
+ 
+ double resultado = valor/ 4.0;
+
+ cout <<"el resultado final es: " << resultado << endl;
+
+ return 0;
