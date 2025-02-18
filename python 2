@@ -1,0 +1,3 @@
+articulo=float(input("introduce el precio del articulo:"))
+preciofinal1 =articulo-("articulo1*0.15")
+print(f"el precio del articulo con el descuento es:{preciofinal1}")
